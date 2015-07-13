@@ -1,0 +1,11 @@
+{
+  "name": "dojo",
+  "version": "1.0.0",
+  "description": "1. **O objetivo do framework ou o porquê de sua criação:**     - O React é um framework javascript criado para desenvolver aplicações web. Ele foi criado pelo Facebook e é usado no próprio facebook e agora também no Instagram.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
